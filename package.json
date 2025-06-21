@@ -1,0 +1,12 @@
+{
+  "name": "regis-marriott",
+  "version": "1.0.0",
+  "description": "Auto Regis Marriott",
+  "main": "regis_marriott.js",
+  "scripts": {
+    "start": "node regis_marriott.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
